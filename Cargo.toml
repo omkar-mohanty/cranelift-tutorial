@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 cranelift = "0.94.0"
 target-lexicon = "0.12.6"
+memmap2 = "0.5.10"
